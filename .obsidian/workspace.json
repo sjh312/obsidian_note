@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "fe49c973c299388e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b357f4be5b799138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c430ff1992b406c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정훈 노트/java/java java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c87e2bb504c7b8d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b98dabbbecd48d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53e40d9cdf6ce889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f09ff60837deef68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd663bfe1ab01d7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1156e2a58165eb83",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ce681d3b199c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e547402be2cb1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "정훈 노트/java/java java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57187a67105092d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "정훈 노트/java/java java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b391209d05544343",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7569d687244d198",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "정훈 노트/java/java java.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c430ff1992b406c4",
+  "lastOpenFiles": [
+    "정훈 노트/무제 파일.md",
+    "정훈 노트/java/java java.md",
+    "정훈 노트/java",
+    "Welcome.md",
+    "정훈 노트"
+  ]
+}
